@@ -4,7 +4,7 @@
 
 [Try the interactive ModelWatch demo](https://modelwatch-ai-prototype-msk.lovable.app/) · [Explore the Python/Jupyter notebook](./ModelWatch%20RAG%20Monitor.ipynb)
 
-> Academic portfolio prototype. The browser interface simulates monitoring, decisions, reviewer sign-off, and audit history. It does not call an LLM or connect to a production model. Notebook telemetry is synthetic.
+Academic portfolio prototype. The browser interface simulates monitoring, decisions, reviewer sign-off, and audit history. It does not call an LLM or connect to a production model. Notebook telemetry is synthetic.
 
 
 ## The challenge
