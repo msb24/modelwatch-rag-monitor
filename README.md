@@ -2,11 +2,10 @@
 
 **Interactive synthetic evaluation demo + reproducible Jupyter notebook**
 
-[Try the interactive browser demonstration](https://msb24.github.io/modelwatch-rag-monitor/) · [Explore the notebook](./ModelWatch%20RAG%20Monitor.ipynb)
+[Try the interactive ModelWatch demo](https://modelwatch-ai-prototype-msk.lovable.app/) · [Explore the Python/Jupyter notebook](./ModelWatch%20RAG%20Monitor.ipynb)
 
 > Academic portfolio prototype. The browser interface simulates monitoring, decisions, reviewer sign-off, and audit history. It does not call an LLM or connect to a production model. Notebook telemetry is synthetic.
 
-![Example notebook dashboard with synthetic monitoring data](assets/modelwatch-dashboard.png)
 
 ## The challenge
 
@@ -51,7 +50,7 @@ flowchart LR
 4. Record **Escalate to human review** or **Resolve after review**.
 5. Download the simulated review history as CSV. Data is stored locally in this browser; no backend service is connected.
 
-The dashboard is served from `docs/index.html` via GitHub Pages.
+The interactive reviewer interface is available through the linked Lovable prototype. The Jupyter notebook provides a separate synthetic evaluation implementation.
 
 ## Run the Python notebook
 
